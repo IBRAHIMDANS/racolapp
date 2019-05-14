@@ -1,0 +1,15 @@
+node_modules/
+.DS_Store
+*.env
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.lock
+*.log
+
+sendgrid.env

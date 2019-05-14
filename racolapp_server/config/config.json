@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "racolapp",
+    "port": "3306",
+    "password": "racolapp",
+    "database": "racolapp",
+    "host": "racolappdb.cyjdendimfjc.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "racolapp",
+    "port": "3306",
+    "password": "racolapp",
+    "database": "racolapp",
+    "host": "racolappdb.cyjdendimfjc.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "racolapp",
+    "port": "3306",
+    "password": "racolapp",
+    "database": "racolapp",
+    "host": "racolappdb.cyjdendimfjc.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
