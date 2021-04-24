@@ -32,10 +32,10 @@
     "heroku"
   ],
   "devDependencies": {
-    "@babel/cli": "^7.4.4",
-    "@babel/core": "^7.4.4",
-    "@babel/node": "^7.2.2",
-    "@babel/preset-env": "^7.4.4",
+    "@babel/cli": "7.13.16",
+    "@babel/core": "7.13.16",
+    "@babel/node": "7.13.13",
+    "@babel/preset-env": "7.13.15",
     "circular-json": "^0.5.9",
     "eslint": "^5.16.0",
     "jest": "^24.8.0",
